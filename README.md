@@ -15,6 +15,7 @@ Currently in Bachelor oriented Video Game, I have been interested since I was 10
 *   🧠  I'm learning the basics of C++ and the subtleties of C#
 *   🤝  I'm open to collaborating on projects oriented for research or small independent games.
 *   ⚡  One day I will know the difference between a good and a bad developer; in the meantime I am content with the middle.
+
 <a href="https://www.twitter.com/Dwen_Shell" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/Dwen_Shell?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a>

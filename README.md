@@ -1,5 +1,3 @@
-buymeacoffeeBuy Me a Coffee:
-
 Hi 👋 My name is Clara Giraud
 =============================
 

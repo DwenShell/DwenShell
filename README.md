@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Clara Giraud</h1>
-<h4 align="justify">Currently in Bachelor oriented Video Game, I have been interested since I was 10 years old in everything that has a microcontroller. Unable to become a cyborg, I reoriented myself on programming. For 4 years I mainly focus on Unity as well as Unreal Engine. Always looking for new projects, these help me improve my skills day after day. My studies also allow me to understand the general workflow of a game studio and therefore the different stages of production. (It doesn't look like, but sometimes I also do 3D)</h3>
+<h4 align="justify">Currently in Master oriented Video Game, I have been interested since I was 10 years old in everything that has a microcontroller. Unable to become a cyborg, I reoriented myself on programming. For 4 years I mainly focus on Unity as well as Unreal Engine. Always looking for new projects, these help me improve my skills day after day. My studies also allow me to understand the general workflow of a game studio and therefore the different stages of production. (It doesn't look like, but sometimes I also do 3D)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dwenshell&label=Profile%20views&color=0e75b6&style=flat" alt="dwenshell" /> </p>
 
